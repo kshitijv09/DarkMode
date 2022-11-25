@@ -1,0 +1,46 @@
+.container {
+  margin: auto;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: centers;
+}
+.one {
+  margin: auto;
+}
+.top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.heading {
+  color: #d23669;
+  font-size: 1.7em;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.description {
+  font-size: 1.2em;
+}
+.btn {
+  margin: auto; /* auto aligns element horizontally inside parent element*/
+  background-color: #d23669;
+  color: white;
+  font-size: 1.1rem;
+  border-radius: 0.3em;
+  border: none;
+  padding: 0.3em 0.5em;
+}
+.change {
+  background-color: #282c35;
+}
+.text {
+  color: white;
+}
+.pink {
+  color: #ffa7c4;
+}
+.pink2 {
+  background-color: #ffa7c4;
+}
